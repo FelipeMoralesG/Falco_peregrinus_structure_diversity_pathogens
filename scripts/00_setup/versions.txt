@@ -1,0 +1,10 @@
+Version: 0.7.17-r1188
+samtools 1.13
+fastp 1.0.1
+	-> angsd version: 0.935 (htslib: 1.13) build(Aug  9 2021 20:32:56)
+	-> angsd 
+Kraken version 2.1.2
+v1.36.4
+PlainMap d02d6ef594c5bde11aa361ab790efc633ebf0cb8 Mon Jun 22 17:36:05 2026 +0200
+HEARTY f0f69983adbb6051a4de671470d81b38c6d220f4 Wed Oct 28 11:46:58 2026 +0100
+R version 4.5.1 (2025-06-13) -- "Great Square Root"
